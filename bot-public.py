@@ -7,7 +7,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 from gpt4all import GPT4All
-
+# you will have to install an LLM, any should do, but this is the default.
 model = GPT4All("mistral-7b-instruct-v0.1.Q4_0.gguf")
 client = discord.Client(intents=intents)
 
