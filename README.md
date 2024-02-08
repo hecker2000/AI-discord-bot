@@ -13,5 +13,5 @@ then you will need to open the script to instert file locations. after line 35, 
 # default commands and ingoring text
 by using the prefix ":" the bot will ignore you, to get the AI to run commands simply type some of the following text into a channel the bot is in.
 1. : clear (clears the bot's current memeory)
-2. : vc {optional: intager} (makes the bot join the VC you are currently in and plays a random sound that you can specify)
+2. : vc {optional: integer} (makes the bot join the VC you are currently in and plays a random sound that you can specify)
 3. : leave (leaves the server the command was sent in)
