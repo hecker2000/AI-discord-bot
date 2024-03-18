@@ -18,3 +18,9 @@ by using the prefix ":" the bot will ignore you, to get the AI to run commands s
 1. : clear (clears the bot's current memory)
 2. : vc {optional: integer} (makes the bot join the VC you are currently in and plays a random sound that you can specify)
 3. : leave (leaves the server the command was sent in)
+
+# TODO
+* add linux support.
+* build a wiki
+* add more commands
+* fix chat4AI bug
